@@ -15,3 +15,11 @@
 <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="50" height="50" />
 <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeoliveirad/guilhermeoliveirad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeoliveirad/guilhermeoliveirad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermeoliveirad/guilhermeoliveirad/output/pacman-contribution-graph.svg">
+</picture>
+
+###
