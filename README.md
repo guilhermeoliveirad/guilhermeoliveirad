@@ -16,7 +16,7 @@
 <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" />
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=default&show_offline=false&background_color=0000ff&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=novatorem&show_offline=false&background_color=0000ff&interchange=false&bar_color=00ffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeoliveirad/guilhermeoliveirad/output/pacman-contribution-graph-dark.svg">
