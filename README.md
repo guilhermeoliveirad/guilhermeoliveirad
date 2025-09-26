@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/now-playing?uid=31o6kvtul2622q36i4y54vbccgne" alt="Now playing on Spotify" />
+  <img src="https://seu-projeto.vercel.app/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" alt="Now playing on Spotify" />
 </div>
 
 <picture>
