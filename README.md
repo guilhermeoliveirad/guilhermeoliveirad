@@ -16,6 +16,10 @@
 <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" />
 </div>
 
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/now-playing?uid=31o6kvtul2622q36i4y54vbccgne" alt="Now playing on Spotify" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeoliveirad/guilhermeoliveirad/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeoliveirad/guilhermeoliveirad/output/pacman-contribution-graph.svg">
@@ -23,3 +27,5 @@
 </picture>
 
 ###
+
+
