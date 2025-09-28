@@ -2,11 +2,12 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 Stats
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermefpo&show_icons=true&theme=radical&count_private=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpo&layout=compact&theme=radical)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermefpo&show_icons=true&theme=tokyonight&count_private=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpo&layout=compact&theme=tokyonight)  
+
 </div>
 
   <div>
