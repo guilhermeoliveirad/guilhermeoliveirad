@@ -2,15 +2,14 @@
 
 
 
-<div>
-  <a href="https://beacons.ai/guilhermeoliveirad">
-    <img height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=guilhermefpo&show_icons=true&bg_color=000000&title_color=0000FF&text_color=ffffff&icon_color=ffffff&cache_seconds=3600"/>
-    <img height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpo&layout=compact&langs_count=6&bg_color=000000&title_color=0000FF&text_color=ffffff&icon_color=ffffff&cache_seconds=3600"/>
+## 📊 GitHub Stats
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermefpo&show_icons=true&theme=radical&count_private=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpo&layout=compact&theme=radical)  
 </div>
-    
-<div>
+
+  <div>
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" width="50" height="50" />
 <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="50" height="50" />
 <img src="https://devicon-website.vercel.app/api/python/original.svg" width="50" height="50" />
