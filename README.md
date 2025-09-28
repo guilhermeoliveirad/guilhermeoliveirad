@@ -6,8 +6,8 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermefpo&show_icons=true&theme=tokyonight&count_private=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpo&layout=compact&theme=tokyonight)  
-
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefpo&layout=compact&theme=tokyonight)   
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilhermefpo&theme=tokyonight&hide_border=false)  
 </div>
 
   <div>
