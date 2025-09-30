@@ -26,8 +26,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/snake.svg" alt="Snake animation" />
-
-###
 
 
