@@ -53,8 +53,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil ✨</p>
