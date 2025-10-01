@@ -20,6 +20,13 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o6kvtul2622q36i4y54vbccgne&cover_image=true&theme=novatorem&show_offline=false&background_color=0000ff&interchange=false&bar_color=00ffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermefpo/guilhermefpo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 ###
